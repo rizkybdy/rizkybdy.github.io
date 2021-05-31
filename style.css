@@ -1,0 +1,10 @@
+{
+	background-image:url('Gambar/1.gif');
+	background-repeat:repeat-y;
+}
+h1 {text-align:left;}
+p.main {text-align:justify; font-size:125%; color:red;}
+body {
+color: #80c0c0;
+background: grey }
+
